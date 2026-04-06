@@ -1,6 +1,6 @@
 {
   "name": "exec",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": ":shell: semantic-release plugin to execute custom shell commands",
   "main": "src/index.js",
   "scripts": {
